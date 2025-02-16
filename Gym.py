@@ -186,3 +186,4 @@ while True:
     else:
         print("Wrong Choice!!")
 db.close()
+print("this is a new user ")
